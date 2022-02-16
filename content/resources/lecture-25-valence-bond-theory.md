@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Valence Bond Theory (PDF)](resources/lecture25)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Valence Bond Theory'
 uid: c813d3c9-39ad-0347-99fe-414a9607787b
 video_files:
   archive_url: http://www.archive.org/download/MIT5.112F05/25ocw-5.112-14nov2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-112-principles-of-chemical-science-fall-2005/7fa60875a1bf545492c2770d5d1d7d20_r8-cr6wrOgE.vtt
+  video_captions_file: /courses/5-112-principles-of-chemical-science-fall-2005/7fa60875a1bf545492c2770d5d1d7d20_r8-cr6wrOgE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/r8-cr6wrOgE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-112-principles-of-chemical-science-fall-2005/10d8227da036ef54d83ad019fbd6fee2_r8-cr6wrOgE.pdf
+  video_transcript_file: /courses/5-112-principles-of-chemical-science-fall-2005/10d8227da036ef54d83ad019fbd6fee2_r8-cr6wrOgE.pdf
 video_metadata:
   youtube_id: r8-cr6wrOgE
 ---

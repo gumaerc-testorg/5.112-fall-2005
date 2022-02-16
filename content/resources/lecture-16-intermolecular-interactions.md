@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Intermolecular Interactions (PDF)](resources/lecture16)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Intermolecular Interactions'
 uid: 62548b9f-f9ce-c0d4-b445-f8d332854dd3
 video_files:
   archive_url: http://www.archive.org/download/MIT5.112F05/16ocw-5.112-19oct2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-112-principles-of-chemical-science-fall-2005/428603e5e42d575ebac1a439a16325a8_sNdTPKvsYXg.vtt
+  video_captions_file: /courses/5-112-principles-of-chemical-science-fall-2005/428603e5e42d575ebac1a439a16325a8_sNdTPKvsYXg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/sNdTPKvsYXg/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-112-principles-of-chemical-science-fall-2005/2a7c7f2c74d4edf695da1bb0da972196_sNdTPKvsYXg.pdf
+  video_transcript_file: /courses/5-112-principles-of-chemical-science-fall-2005/2a7c7f2c74d4edf695da1bb0da972196_sNdTPKvsYXg.pdf
 video_metadata:
   youtube_id: sNdTPKvsYXg
 ---

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource provides information about MO theory for octahedral complexes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-112-principles-of-chemical-science-fall-2005/ce215b963d712ccebf2a840c42be9283_lecture32.pdf
+file: /media/courses/5-112-principles-of-chemical-science-fall-2005/ce215b963d712ccebf2a840c42be9283_lecture32.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: lecture32.pdf
 uid: ce215b96-3d71-2cce-bf2a-840c42be9283
