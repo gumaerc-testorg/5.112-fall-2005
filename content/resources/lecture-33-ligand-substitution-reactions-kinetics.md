@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Ligand Substitution Reactions: Kinetics (PDF)](resources/lecture33)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 33: Ligand Substitution Reactions: Kinetics'
 uid: b8747be6-7eeb-9d7d-27ba-20735ede41c1
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 0f6eafa3-3e90-56ec-6097-f69475356be6
 resourcetype: Document
 title: lecture27.pdf
 uid: 8151c83e-7a28-2cdd-4898-ad298d32d15a

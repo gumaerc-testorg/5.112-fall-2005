@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 0f6eafa3-3e90-56ec-6097-f69475356be6
 resourcetype: Document
 title: 1_7_from_l36.pdf
 uid: 1491b09e-1034-4049-efed-7fad720f3100

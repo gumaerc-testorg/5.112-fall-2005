@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Electrons in Chemistry: Redox Processes (PDF)](resources/lecture22)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Electrons in Chemistry: Redox Processes'
 uid: d27826b3-77cb-245b-6546-693f6eaeed40
 video_files:

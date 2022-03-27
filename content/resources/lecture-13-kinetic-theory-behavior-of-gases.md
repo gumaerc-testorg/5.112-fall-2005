@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Ionic Bonds\_\u2011\_Classical Model and Mechanism (PDF)](resources/lecture13)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 13: Kinetic Theory \u2011 Behavior of Gases"
 uid: ee395674-f14c-742e-a278-3f06a86e33e9
 video_files:

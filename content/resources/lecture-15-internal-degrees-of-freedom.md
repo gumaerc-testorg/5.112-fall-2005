@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Internal Degrees of Freedom (PDF)](resources/lecture15)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Internal Degrees of Freedom'
 uid: 1e901df1-c415-faa6-3de5-d2330a2ebb13
 video_files:

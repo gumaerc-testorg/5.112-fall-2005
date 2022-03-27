@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Molecular Orbital Theory for Diatomic Molecules (PDF)](resources/lecture27)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 27: Molecular Orbital Theory for Diatomic Molecules'
 uid: 5f893397-9f3e-aeae-4644-b2da27307e4c
 video_files:

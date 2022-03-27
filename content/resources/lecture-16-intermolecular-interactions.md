@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Intermolecular Interactions (PDF)](resources/lecture16)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Intermolecular Interactions'
 uid: 62548b9f-f9ce-c0d4-b445-f8d332854dd3
 video_files:

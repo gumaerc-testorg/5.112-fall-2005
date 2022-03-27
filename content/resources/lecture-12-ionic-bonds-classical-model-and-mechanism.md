@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Ionic Bonds\_\u2011\_Classical Model and Mechanism (PDF)](resources/lecture12)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 12: Ionic Bonds \u2011 Classical Model and Mechanism"
 uid: 00f5a420-0c3a-4c41-d1fc-142fe427ab39
 video_files:

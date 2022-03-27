@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Hydrogen Atom Wavefunctions (PDF)](resources/lecture7)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Hydrogen Atom Wavefunctions'
 uid: 09c2d97c-5214-8ebc-103b-d6e483054f35
 video_files:

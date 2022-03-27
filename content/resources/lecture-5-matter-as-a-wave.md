@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Matter as a Wave (PDF)](resources/lecture5)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Matter as a Wave'
 uid: 0c2aa613-3e62-d14b-38f4-0133f6cfdd66
 video_files:

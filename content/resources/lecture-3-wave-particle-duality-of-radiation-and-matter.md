@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Wave-Particle Duality of Radiation and Matter (PDF)](resources/lecture3)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Wave-Particle Duality of Radiation and Matter'
 uid: 254958f3-79db-4208-0c68-087a482ae02b
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Electronic Structure of Multielectron Atoms (PDF)](resources/lecture9)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Electronic Structure of Multielectron Atoms'
 uid: c74df4dd-192f-ea09-9f22-2fd08c179717
 video_files:

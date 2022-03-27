@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Thermodynamics and Spontaneous Change (PDF)](resources/lecture18)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Thermodynamics and Spontaneous Change'
 uid: acd4d0ae-d7b4-0cfe-917c-b1aa77633985
 video_files:

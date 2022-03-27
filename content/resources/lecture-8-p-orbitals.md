@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: P Orbitals ([PDF](resources/lecture8))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: P Orbitals'
 uid: c7a84cda-cb99-7178-e747-bdc9dd2d5f44
 video_files:

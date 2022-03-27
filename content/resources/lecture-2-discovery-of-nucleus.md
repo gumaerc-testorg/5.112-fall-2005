@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Discovery of Nucleus (PDF)](resources/lecture2)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Discovery of Nucleus'
 uid: 7036eb94-4028-8f23-05eb-1c92493dd2c1
 video_files:

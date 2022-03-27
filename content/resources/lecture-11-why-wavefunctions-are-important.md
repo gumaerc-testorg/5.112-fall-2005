@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Why Wavefunctions are Important? (PDF)](resources/lecture11)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Why Wavefunctions are Important'
 uid: 1bd9ee7a-563b-2f7e-8ac5-b1bb3a34c8f8
 video_files:

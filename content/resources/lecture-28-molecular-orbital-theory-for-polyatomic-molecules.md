@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Molecular Orbital Theory for Polyatomic Molecules (PDF)](resources/lecture28)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 28: Molecular Orbital Theory for Polyatomic Molecules'
 uid: cb908372-01d0-2842-18cb-286652663950
 video_files:

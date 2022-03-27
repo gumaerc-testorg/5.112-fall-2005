@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Coordination Complexes and Ligands (PDF)](resources/lecture32)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 32: Coordination Complexes and Ligands'
 uid: ee50c1c7-8405-fc63-b3b7-faedf56a51d7
 video_files:

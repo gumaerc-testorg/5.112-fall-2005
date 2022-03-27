@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Cell Potentials and Free Energy (PDF)](resources/lecture24)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Cell Potentials and Free Energy'
 uid: 84a8e0ed-4d34-85ea-23ae-7016d4c594a9
 video_files:

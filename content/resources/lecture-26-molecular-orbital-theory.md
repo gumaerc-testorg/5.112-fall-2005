@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Molecular Orbital Theory (PDF)](resources/lecture26)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26: Molecular Orbital Theory'
 uid: 3e8c87fe-c10d-c484-99ec-ce692df9ae30
 video_files:

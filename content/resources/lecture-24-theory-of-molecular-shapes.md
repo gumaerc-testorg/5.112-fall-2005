@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Theory of Molecular Shapes (PDF)](resources/lecture24)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Theory of Molecular Shapes'
 uid: c332032b-1f30-3aba-04e4-5245cc7773a7
 video_files:

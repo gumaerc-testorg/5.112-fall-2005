@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Atomic Theory of Matter (PDF)](resources/lecture1)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Atomic Theory of Matter'
 uid: b373641d-df46-d978-509c-f63cd81a65e0
 video_files:

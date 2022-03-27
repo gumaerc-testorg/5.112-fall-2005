@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Polarizability (PDF)](resources/lecture17)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Polarizability'
 uid: 4d28ebb6-2a40-a7c9-2acf-6574eb9bd2cf
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Particle-Like Nature of Light (PDF)](resources/lecture4)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Particle-Like Nature of Light'
 uid: f6bb59b7-d3ab-a69d-e03d-8c57bda7f10f
 video_files:

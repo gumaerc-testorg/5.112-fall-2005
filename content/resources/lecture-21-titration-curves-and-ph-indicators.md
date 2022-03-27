@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Titration Curves and pH Indicators (PDF)](resources/lecture21)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Titration Curves and pH Indicators'
 uid: 879b839e-4413-8fa9-7038-c57fa60625a7
 video_files:

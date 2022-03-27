@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Lewis and Br\xF8nsted Acid-Base Concepts (PDF)](resources/lecture20)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 20: Lewis and Br\xF8nsted Acid-Base Concepts"
 uid: 63abf444-4958-e184-6e8f-c07b9bcec755
 video_files:

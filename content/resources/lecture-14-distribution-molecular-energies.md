@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "[Kinetic Theory\_\u2011\_Behavior of Gases (PDF)](resources/lecture14)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Distribution Molecular Energies'
 uid: 58916f5f-fa1a-8487-b9e4-7c49edc0773e
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: '([PDF 1](resources/8_14_from_l36)){{< sup "#" >}} (Cour
   ([PDF 2](resources/15_froml36))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 36: Nuclear Chemistry and the Cardiolite Story'
 uid: 84dcafae-da70-0f7f-230c-4a0ad77647a8
 video_files:

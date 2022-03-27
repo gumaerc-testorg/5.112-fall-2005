@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Color and Magnetism of Coordination Complexes (PDF)](resources/lecture31)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 31: Color and Magnetism of Coordination Complexes'
 uid: 443c8c50-b6cd-4d5c-f68d-310d81ae16d9
 video_files:

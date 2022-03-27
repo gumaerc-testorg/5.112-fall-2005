@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Valence Bond Theory (PDF)](resources/lecture25)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Valence Bond Theory'
 uid: c813d3c9-39ad-0347-99fe-414a9607787b
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Bonding in Metals and Semiconductors (PDF)](resources/lecture34)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 34: Bonding in Metals and Semiconductors'
 uid: 55304d58-745e-7313-036d-9e890d76471e
 video_files:

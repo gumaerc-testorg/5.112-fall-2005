@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: '[Crystal Field Theory (PDF)](resources/lecture29_30)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 29: Crystal Field Theory'
 uid: afd3b953-e849-7887-2aad-9c4ff45f0df1
 video_files:
