@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Particle-Like Nature of Light (PDF)](resources/lecture4)'
+related_resources_text: '[Particle-Like Nature of Light (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture4)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Particle-Like Nature of Light
 
 **Instructors/speakers:** Prof. Sylvia Ceyer
+
+
+

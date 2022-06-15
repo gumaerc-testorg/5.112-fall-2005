@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-112-principles-of-chemical-science-fall-2005/9668897ca401604b168ca4d7012e8452_LRFbAo-RIIU.pdf
+file: /courses/5-112-principles-of-chemical-science-fall-2005/9668897ca401604b168ca4d7012e8452_LRFbAo-RIIU.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

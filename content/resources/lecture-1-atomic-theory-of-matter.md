@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Atomic Theory of Matter (PDF)](resources/lecture1)'
+related_resources_text: '[Atomic Theory of Matter (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture1)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Atomic Theory of Matter
 
 **Instructors/speakers:** Prof. Sylvia Ceyer
+
+
+
