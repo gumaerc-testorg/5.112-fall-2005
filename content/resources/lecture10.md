@@ -5,6 +5,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/20c171652cee652027
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture10.pdf
 uid: 20c17165-2cee-6520-2770-59d086e799b1
 ---
 This resource provides information about Periodic Table, and Isoelectronic.
-

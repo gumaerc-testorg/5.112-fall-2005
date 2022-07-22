@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/32c87306eccb2955f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture22.pdf
 uid: 32c87306-eccb-2955-f38c-842b2553c96c
 ---
 This resource provides information about oxidation-reduction half-reactions, electrochemical cell, and standard reduction potentials.
-

@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/6ac4b3355476f1603b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture13.pdf
 uid: 6ac4b335-5476-f160-3bc9-57dad4447e2d
 ---
 This resource provides information about ideal gas law, experimental verification of molecular speeds, and parameters in a Maxwell-Boltzmann distribution.
-

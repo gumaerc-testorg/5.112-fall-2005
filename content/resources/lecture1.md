@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/dc67e82d72cb38310d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture1.pdf
 uid: dc67e82d-72cb-3831-0d3d-cc2e8782abcd
 ---
 This resource provides information about people in history, scanning tunneling microscopy, and end of the 19th century.
-

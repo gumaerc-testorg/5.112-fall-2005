@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/8151c83e7a282cdd48
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture27.pdf
 uid: 8151c83e-7a28-2cdd-4898-ad298d32d15a
 ---
 This resource provides information about homonuclear diatomic molecules, and energy level diagram.
-

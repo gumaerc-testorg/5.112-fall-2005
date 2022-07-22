@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/9567396935c127c29a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture2.pdf
 uid: 95673969-35c1-27c2-9a7a-6222bcbf6ced
 ---
 This resource provides information about E. Rutherford 1911, and classical description of atom.
-

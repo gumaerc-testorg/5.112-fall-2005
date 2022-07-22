@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-112-principles-of-chemical-science-fall-2005/23151240b8c95c90a081649f10c67abb_9Cl8mj5VIHA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

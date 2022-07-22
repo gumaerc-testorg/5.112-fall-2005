@@ -5,6 +5,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/1586cd0e0b17a298f4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 15_froml36.pdf
 uid: 1586cd0e-0b17-a298-f4ef-8f682bfefa02
 ---
 This resource provides information about useful external links.
-

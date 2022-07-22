@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/a11d34abd47976670f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture31.pdf
 uid: a11d34ab-d479-7667-0f6e-0eeecdb0f2ec
 ---
 This resource provides information about d-orbital splitting diagrams, and magnetism of coordination complexes.
-

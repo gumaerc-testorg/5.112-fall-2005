@@ -7,6 +7,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/455e675d57f25d1e4c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture26.pdf
 uid: 455e675d-57f2-5d1e-4cd1-9c1e768b017d
 ---
 This resource provides information about valence bond theory vs. molecular orbital theory, steps for molecular orbital construction, and types of molecular orbitals.
-

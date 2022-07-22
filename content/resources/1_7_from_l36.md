@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/1491b09e10344049ef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1_7_from_l36.pdf
 uid: 1491b09e-1034-4049-efed-7fad720f3100
 ---
 This resource provides information about requirements for the degree of doctor of philosophy.
-

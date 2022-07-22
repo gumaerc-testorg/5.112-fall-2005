@@ -6,6 +6,7 @@ file: /courses/5-112-principles-of-chemical-science-fall-2005/3cc8abf43d42862404
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture3.pdf
 uid: 3cc8abf4-3d42-8624-0466-d71c3eab897d
 ---
 This resource provides information about wave nature of radiation, wave nature of light, and wavelike properties of radiation.
-

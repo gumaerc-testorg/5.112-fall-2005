@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-112-principles-of-chemical-science-fall-2005/60676c828e312f6f4bc45119c16d73a4_M8QoJojEklw.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
