@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about breakdown of the ideal gas law,
   and intermolecular attractive interactions.
 file: /courses/5-112-principles-of-chemical-science-fall-2005/67216100a8a2168a187354ca646a4963_lecture16.pdf
+file_size: 12447
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

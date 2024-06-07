@@ -4,6 +4,7 @@ description: This resource provides information about Polarizability a, liquids 
   intermolecular attractions, intermolecular interactions, and bond energies/bond
   enthalpies.
 file: /courses/5-112-principles-of-chemical-science-fall-2005/579ee9e57392f3d13f28ac485b293eb6_lecture17.pdf
+file_size: 101469
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

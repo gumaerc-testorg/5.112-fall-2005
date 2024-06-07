@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about ionic bonds, and polar covalent
   bonds and dipole moments.
 file: /courses/5-112-principles-of-chemical-science-fall-2005/5f01c1a0a6384b489b9c5d4d15cd2ba1_lecture12.pdf
+file_size: 22926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
