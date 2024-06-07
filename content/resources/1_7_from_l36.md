@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about requirements for the degree
   of doctor of philosophy.
 file: /courses/5-112-principles-of-chemical-science-fall-2005/1491b09e10344049efed7fad720f3100_1_7_from_l36.pdf
+file_size: 226691
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

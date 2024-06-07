@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information about properties of molecules and
   parts of molecules: a continuum, and charge distribution in molecules.'
 file: /courses/5-112-principles-of-chemical-science-fall-2005/fe6c618dda35bf37a464a4b0f64578d5_lecture19.pdf
+file_size: 96680
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

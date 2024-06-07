@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about people in history, scanning
   tunneling microscopy, and end of the 19th century.
 file: /courses/5-112-principles-of-chemical-science-fall-2005/dc67e82d72cb38310d3dcc2e8782abcd_lecture1.pdf
+file_size: 16544
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

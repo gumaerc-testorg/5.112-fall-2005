@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about coordination chemistry, isomers,
   and transition/d-Block elements.
 file: /courses/5-112-principles-of-chemical-science-fall-2005/ce1877e66ec1f46126b2746129230090_lecture29_30.pdf
+file_size: 87453
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
