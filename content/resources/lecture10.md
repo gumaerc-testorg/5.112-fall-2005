@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about Periodic Table, and Isoelectronic.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/20c171652cee6520277059d086e799b1_lecture10.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/20c171652cee6520277059d086e799b1_lecture10.pdf
 file_size: 82899
 file_type: application/pdf
 learning_resource_types:

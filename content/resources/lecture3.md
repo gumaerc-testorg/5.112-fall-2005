@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about wave nature of radiation, wave
   nature of light, and wavelike properties of radiation.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/3cc8abf43d4286240466d71c3eab897d_lecture3.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/3cc8abf43d4286240466d71c3eab897d_lecture3.pdf
 file_size: 14765
 file_type: application/pdf
 learning_resource_types:

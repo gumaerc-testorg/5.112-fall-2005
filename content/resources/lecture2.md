@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about E. Rutherford 1911, and classical
   description of atom.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/9567396935c127c29a7a6222bcbf6ced_lecture2.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/9567396935c127c29a7a6222bcbf6ced_lecture2.pdf
 file_size: 13295
 file_type: application/pdf
 learning_resource_types:

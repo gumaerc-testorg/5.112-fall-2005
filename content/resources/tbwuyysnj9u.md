@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-112-principles-of-chemical-science-fall-2005/ad4a3434c1d361a1d5fa82e2f56b2581_tbWuyysnj9U.srt
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/ad4a3434c1d361a1d5fa82e2f56b2581_tbWuyysnj9U.srt
 file_size: 53130
 file_type: application/x-subrip
 learning_resource_types: []
