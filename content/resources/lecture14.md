@@ -4,7 +4,7 @@ description: This resource provides information about Maxwell-Boltzmann (MB) ene
   distribution, experimental verification of an energy barrier to a chemical reaction  and
   the role of a MB energy distribution, frequency of molecular collisions, and internal
   molecular motions.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/d0ea56703f33cee041e4ef62f6e476d2_lecture14.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/d0ea56703f33cee041e4ef62f6e476d2_lecture14.pdf
 file_size: 13849
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about oxidation-reduction half-reactions,
   electrochemical cell, and standard reduction potentials.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/32c87306eccb2955f38c842b2553c96c_lecture22.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/32c87306eccb2955f38c842b2553c96c_lecture22.pdf
 file_size: 83822
 file_type: application/pdf
 learning_resource_types:

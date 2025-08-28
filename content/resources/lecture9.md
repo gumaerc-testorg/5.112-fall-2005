@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about Shielding and Zeff, electron
   configurations of ions, and Photoelectron Spectroscopy.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/7ac02f686e25faa6debb3db689ac7bd0_lecture9.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/7ac02f686e25faa6debb3db689ac7bd0_lecture9.pdf
 file_size: 13312
 file_type: application/pdf
 learning_resource_types:

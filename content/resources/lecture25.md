@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about Hybridization.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/0dec17f9e8a91ca88afd77fe0c5d9eca_lecture25.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/0dec17f9e8a91ca88afd77fe0c5d9eca_lecture25.pdf
 file_size: 85051
 file_type: application/pdf
 learning_resource_types:

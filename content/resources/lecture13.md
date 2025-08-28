@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about ideal gas law, experimental
   verification of molecular speeds, and parameters in a Maxwell-Boltzmann distribution.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/6ac4b3355476f1603bc957dad4447e2d_lecture13.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/6ac4b3355476f1603bc957dad4447e2d_lecture13.pdf
 file_size: 16602
 file_type: application/pdf
 learning_resource_types:

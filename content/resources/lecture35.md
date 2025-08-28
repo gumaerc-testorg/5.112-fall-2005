@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about Nature?s Ligands, Heme, Porphyrin
   sturcture, Metalloproteins, and Biomolecules.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/9d5e3c3a9f278ed1cffcea06a6cda240_lecture35.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/9d5e3c3a9f278ed1cffcea06a6cda240_lecture35.pdf
 file_size: 84514
 file_type: application/pdf
 learning_resource_types:

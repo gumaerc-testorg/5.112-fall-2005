@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about tetrahedral methane, total electronic
   energy of a molecule, and photoelectron spectroscopy.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/9253670bc629762304817cc47a210ebf_lecture28.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/9253670bc629762304817cc47a210ebf_lecture28.pdf
 file_size: 83245
 file_type: application/pdf
 learning_resource_types:
