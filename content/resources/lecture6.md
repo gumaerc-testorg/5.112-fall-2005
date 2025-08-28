@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about wavefuntion in spherical coordinates,
   Hydrogen atom, verification of energy Levels for H Atom.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/7791fd2f7e5b15bf4d748fef4aed17b2_lecture6.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/7791fd2f7e5b15bf4d748fef4aed17b2_lecture6.pdf
 file_size: 19431
 file_type: application/pdf
 learning_resource_types:

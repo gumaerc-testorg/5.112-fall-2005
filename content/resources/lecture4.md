@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about Photoelectric Effect, and Photon
   Momentum.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/40024b46a6f62c5d4e2802a3359c0e6e_lecture4.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/40024b46a6f62c5d4e2802a3359c0e6e_lecture4.pdf
 file_size: 93190
 file_type: application/pdf
 learning_resource_types:

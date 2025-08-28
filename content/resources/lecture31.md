@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about d-orbital splitting diagrams,
   and magnetism of coordination complexes.
-file: /courses/5-112-principles-of-chemical-science-fall-2005/a11d34abd47976670f6e0eeecdb0f2ec_lecture31.pdf
+file: /ol-ocw-studio-app/courses/5-112-principles-of-chemical-science-fall-2005/a11d34abd47976670f6e0eeecdb0f2ec_lecture31.pdf
 file_size: 96234
 file_type: application/pdf
 learning_resource_types:
